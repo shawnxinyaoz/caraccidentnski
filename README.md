@@ -2,5 +2,6 @@
 Research on whether car accidents are more likely to occur near high-speed sports locations like ski resorts.
 
 # Resource
-https://www.kaggle.com/sobhanmoosavi/us-accidents
-https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016
+https://www.kaggle.com/sobhanmoosavi/us-accidents \n
+https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016 \n
+https://www.kaggle.com/phip2014/ml-to-predict-accident-severity-pa-mont/notebook
